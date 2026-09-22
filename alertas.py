@@ -135,7 +135,7 @@ def main():
         state["last_nvd"] = (NOW - timedelta(hours=2)).isoformat()
         save_state(state)
         ntfy("✅ cti-alertas iniciado", f"{len(kev)} entradas KEV registradas como base.",
-             prio=3, tags=["white_check_mark"])
+             prio=3, tags=[])
         return
 
     items = []
