@@ -1,0 +1,16 @@
+name: Prueba ntfy
+on: workflow_dispatch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar notificacion de prueba
+        env:
+          TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          curl -fsS \
+            -H "Title: Prueba desde GitHub Actions" \
+            -H "Priority: high" \
+            -d "Secreto NTFY_TOPIC OK" \
+            "https://ntfy.sh/$TOPIC"
