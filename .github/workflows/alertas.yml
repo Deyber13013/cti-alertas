@@ -1,0 +1,41 @@
+name: CTI Alertas
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"   # cada 15 min, fuera del minuto 0 (menos congestión)
+  workflow_dispatch:                # permite ejecutarlo a mano
+
+permissions:
+  contents: write                   # solo para guardar state.json
+
+concurrency:
+  group: cti-alertas
+  cancel-in-progress: false         # nunca dos ejecuciones a la vez
+
+jobs:
+  alertas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar alertas
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python alertas.py
+
+      - name: Guardar estado
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json 2>/dev/null || exit 0
+          git diff --cached --quiet || (git commit -m "estado: $(date -u +%FT%TZ)" && git push)
