@@ -189,7 +189,22 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
   "https://www.securityweek.com/?p=49520",
   "https://www.securityweek.com/?p=49524",
-  "https://www.securityweek.com/?p=49527"
+  "https://www.securityweek.com/?p=49527",
+  "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+  "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+  "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+  "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+  "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+  "https://therecord.media/uk-disinformation-russia-center",
+  "https://therecord.media/latvia-hacker-arrest-cyberattack",
+  "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+  "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+  "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+  "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+  "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+  "https://therecord.media/ransomware-ryuk-sentenced-doj",
+  "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+  "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente",
@@ -200,7 +215,14 @@
   "[IMPORTANCIA: ALTA] Arista VCO: zero-day crítico explotado, acceso a funcionalidad privilegiada",
   "[IMPORTANCIA: ALTA] EvilTokens: plataforma phishing basada en IA, desmantelada por Microsoft",
   "[IMPORTANCIA: ALTA] Adobe Connect y AEM Forms: 9 flaws críticos (RCE, escalada de privilegios)",
-  "[IMPORTANCIA: MEDIA] Microsoft: actualizaciones de septiembre 2026 rompen Always On VPN en Windows 11"
+  "[IMPORTANCIA: MEDIA] Microsoft: actualizaciones de septiembre 2026 rompen Always On VPN en Windows 11",
+  "[IMPORTANCIA: ALTA] Linux kernel AF_UNIX use-after-free, escape de contenedor a root",
+  "[IMPORTANCIA: ALTA] cPanel CalDAV/CardDAV RCE como root; WP Toolkit escalada privilegios",
+  "[IMPORTANCIA: ALTA] Cadena suministro: MemTensor comprometido, malware sckit en npm/PyPI",
+  "[IMPORTANCIA: ALTA] GCP Confused Deputy: YAML malicioso en Kubernetes escala a org completa",
+  "[IMPORTANCIA: ALTA] CLOSEDQUORUM: malware Windows con voto de hasta 4 modelos IA",
+  "[IMPORTANCIA: ALTA] MikroTrick: cadena RCE sin autenticación en MikroTik RouterOS expuesto",
+  "[IMPORTANCIA: ALTA] Agentes IA maliciosos: 600K tarjetas robadas, 100+ sitios infectados skimmers"
  ],
  "init": true,
  "last_err": null
