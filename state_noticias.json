@@ -204,7 +204,15 @@
   "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
   "https://therecord.media/ransomware-ryuk-sentenced-doj",
   "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-  "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
+  "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+  "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+  "https://www.securityweek.com/?p=49530",
+  "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+  "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+  "https://therecord.media/trump-harris-election-meddling-russia",
+  "https://www.securityweek.com/?p=49532",
+  "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+  "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente",
@@ -222,7 +230,11 @@
   "[IMPORTANCIA: ALTA] GCP Confused Deputy: YAML malicioso en Kubernetes escala a org completa",
   "[IMPORTANCIA: ALTA] CLOSEDQUORUM: malware Windows con voto de hasta 4 modelos IA",
   "[IMPORTANCIA: ALTA] MikroTrick: cadena RCE sin autenticación en MikroTik RouterOS expuesto",
-  "[IMPORTANCIA: ALTA] Agentes IA maliciosos: 600K tarjetas robadas, 100+ sitios infectados skimmers"
+  "[IMPORTANCIA: ALTA] Agentes IA maliciosos: 600K tarjetas robadas, 100+ sitios infectados skimmers",
+  "[IMPORTANCIA: ALTA] GitLab: dirección email privada permite push de código y ejecución CI/CD",
+  "[IMPORTANCIA: ALTA] Cadena suministro HashiCorp: malware Go en Terraform y módulos",
+  "[IMPORTANCIA: ALTA] WordPress CVE-2026-87902: explotación activa en ejecución remota código",
+  "[IMPORTANCIA: ALTA] Check Point Security Gateway: RCE VPN preautenticación (CVE-2026-85102)"
  ],
  "init": true,
  "last_err": null
