@@ -173,10 +173,34 @@
   "https://www.securityweek.com/?p=49471",
   "https://www.securityweek.com/?p=49464",
   "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-  "https://www.securityweek.com/?p=49502"
+  "https://www.securityweek.com/?p=49502",
+  "https://www.welivesecurity.com/es/seguridad-menores/robux-gratis-estafas-roblox/",
+  "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+  "https://www.securityweek.com/?p=49505",
+  "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+  "https://www.securityweek.com/?p=49508",
+  "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+  "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+  "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+  "https://www.securityweek.com/?p=49510",
+  "https://www.securityweek.com/?p=49513",
+  "https://www.securityweek.com/?p=49515",
+  "https://www.securityweek.com/?p=49518",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+  "https://www.securityweek.com/?p=49520",
+  "https://www.securityweek.com/?p=49524",
+  "https://www.securityweek.com/?p=49527"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente"
+  "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente",
+  "[IMPORTANCIA: ALTA] Next.js ImageResponse: ejecución remota de código vía SVG malicioso",
+  "[IMPORTANCIA: MUY ALTA] F5 BIG-IP APM: zero-day RCE sin autenticación, explotado activamente",
+  "[IMPORTANCIA: MUY ALTA] Chrome-Windows: cadena zero-day explotada por APT chino (UTA0565), entrega CLEANGULP",
+  "[IMPORTANCIA: MUY ALTA] F5 BIG-IP APM OAuth: RCE sin login (CVE-2026-94127), explotado",
+  "[IMPORTANCIA: ALTA] Arista VCO: zero-day crítico explotado, acceso a funcionalidad privilegiada",
+  "[IMPORTANCIA: ALTA] EvilTokens: plataforma phishing basada en IA, desmantelada por Microsoft",
+  "[IMPORTANCIA: ALTA] Adobe Connect y AEM Forms: 9 flaws críticos (RCE, escalada de privilegios)",
+  "[IMPORTANCIA: MEDIA] Microsoft: actualizaciones de septiembre 2026 rompen Always On VPN en Windows 11"
  ],
  "init": true,
  "last_err": null
