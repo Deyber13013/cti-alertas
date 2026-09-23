@@ -16,7 +16,8 @@ cifras, víctimas, actores ni IoCs. Si un dato no está, escribe
 TIPOS DE FUENTE
 - Primarias: CISA Advisories, Cisco PSIRT, Fortinet PSIRT, Palo Alto PSIRT,
   Cisco Talos, CSIRT Chile, CERT.br.
-- Secundarias: BleepingComputer, The Record, The Hacker News, SecurityWeek.
+- Secundarias: BleepingComputer, The Record, The Hacker News, SecurityWeek,
+  WeLiveSecurity ES.
   Un hecho que solo aparece en una fuente secundaria es NO CONFIRMADO,
   salvo que el resumen cite al fabricante, a un gobierno o a la víctima.
 
