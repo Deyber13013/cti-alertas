@@ -17,13 +17,12 @@ NOW = datetime.now(timezone.utc)
 
 FEEDS = {
     # Fabricantes y gobierno (fuentes primarias)
-    "CISA Advisories": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
     "Cisco PSIRT": "https://sec.cloudapps.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml",
     "Fortinet PSIRT": "https://filestore.fortinet.com/fortiguard/rss/ir.xml",
     "Palo Alto PSIRT": "https://security.paloaltonetworks.com/rss.xml",
     "Cisco Talos": "https://blog.talosintelligence.com/rss/",
     # LATAM
-    "CSIRT Chile": "https://csirt.gob.cl/rss/alertas",
+    "WeLiveSecurity ES": "https://www.welivesecurity.com/es/rss/feed/",
     "CERT.br": "https://www.cert.br/rss/certbr-rss.xml",
     # Medios reconocidos (secundarias)
     "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
