@@ -171,9 +171,13 @@
   "https://www.securityweek.com/?p=49478",
   "https://www.securityweek.com/?p=49475",
   "https://www.securityweek.com/?p=49471",
-  "https://www.securityweek.com/?p=49464"
+  "https://www.securityweek.com/?p=49464",
+  "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+  "https://www.securityweek.com/?p=49502"
  ],
- "recientes": [],
+ "recientes": [
+  "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente"
+ ],
  "init": true,
  "last_err": null
 }
