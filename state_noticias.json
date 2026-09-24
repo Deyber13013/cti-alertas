@@ -241,12 +241,18 @@
   "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
   "https://www.securityweek.com/?p=49555",
   "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-  "https://www.securityweek.com/?p=49558"
+  "https://www.securityweek.com/?p=49558",
+  "71042d46-f79b-46a9-a7f9-729cf98b4dad",
+  "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multiauth-bypass-sgD2HbL4",
+  "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+  "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+  "6ab3dee60a4ca5000177a040",
+  "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+  "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+  "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+  "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente",
-  "[IMPORTANCIA: ALTA] Next.js ImageResponse: ejecución remota de código vía SVG malicioso",
-  "[IMPORTANCIA: MUY ALTA] F5 BIG-IP APM: zero-day RCE sin autenticación, explotado activamente",
   "[IMPORTANCIA: MUY ALTA] Chrome-Windows: cadena zero-day explotada por APT chino (UTA0565), entrega CLEANGULP",
   "[IMPORTANCIA: MUY ALTA] F5 BIG-IP APM OAuth: RCE sin login (CVE-2026-94127), explotado",
   "[IMPORTANCIA: ALTA] Arista VCO: zero-day crítico explotado, acceso a funcionalidad privilegiada",
@@ -273,7 +279,10 @@
   "[IMPORTANCIA: ALTA] IA maliciosa ataca cientos retailers: investigación, explotación y orquestación",
   "[IMPORTANCIA: ALTA] Roundcube explotado activamente: inyección código, parcheado mayo",
   "[IMPORTANCIA: ALTA] Psychedelic Stealer: ClickFix en sitios ucranianos compromete Windows",
-  "[IMPORTANCIA: ALTA] third-party.com: placeholder documentación servía ClickFix en 1.700+ repos"
+  "[IMPORTANCIA: ALTA] third-party.com: placeholder documentación servía ClickFix en 1.700+ repos",
+  "[IMPORTANCIA: ALTA] Cisco ISE: múltiples bypasss autenticación y manipulación datos",
+  "[IMPORTANCIA: ALTA] OnePlus: escalada privilegios sin permisos especiales en OxygenOS",
+  "[IMPORTANCIA: ALTA] Carbonato: botnet con agentes IA compromete hosts Docker expuestos"
  ],
  "init": true,
  "last_err": null
