@@ -250,10 +250,12 @@
   "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
   "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
   "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-  "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules"
+  "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+  "https://therecord.media/russia-forensics-technology-doj",
+  "https://www.securityweek.com/?p=49560",
+  "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/"
  ],
  "recientes": [
-  "[IMPORTANCIA: MUY ALTA] Chrome-Windows: cadena zero-day explotada por APT chino (UTA0565), entrega CLEANGULP",
   "[IMPORTANCIA: MUY ALTA] F5 BIG-IP APM OAuth: RCE sin login (CVE-2026-94127), explotado",
   "[IMPORTANCIA: ALTA] Arista VCO: zero-day crítico explotado, acceso a funcionalidad privilegiada",
   "[IMPORTANCIA: ALTA] EvilTokens: plataforma phishing basada en IA, desmantelada por Microsoft",
@@ -282,7 +284,8 @@
   "[IMPORTANCIA: ALTA] third-party.com: placeholder documentación servía ClickFix en 1.700+ repos",
   "[IMPORTANCIA: ALTA] Cisco ISE: múltiples bypasss autenticación y manipulación datos",
   "[IMPORTANCIA: ALTA] OnePlus: escalada privilegios sin permisos especiales en OxygenOS",
-  "[IMPORTANCIA: ALTA] Carbonato: botnet con agentes IA compromete hosts Docker expuestos"
+  "[IMPORTANCIA: ALTA] Carbonato: botnet con agentes IA compromete hosts Docker expuestos",
+  "[IMPORTANCIA: ALTA] MacSync malware: iCloud calendars como canal C2"
  ],
  "init": true,
  "last_err": null
