@@ -214,7 +214,21 @@
   "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
   "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
   "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-  "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/"
+  "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+  "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+  "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+  "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+  "https://www.securityweek.com/?p=49537",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+  "https://www.securityweek.com/?p=49539",
+  "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+  "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+  "https://www.securityweek.com/?p=49541",
+  "https://www.securityweek.com/?p=49543",
+  "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+  "https://www.securityweek.com/?p=49545",
+  "https://www.securityweek.com/?p=49546",
+  "https://www.securityweek.com/?p=49551"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente",
@@ -236,7 +250,11 @@
   "[IMPORTANCIA: ALTA] GitLab: dirección email privada permite push de código y ejecución CI/CD",
   "[IMPORTANCIA: ALTA] Cadena suministro HashiCorp: malware Go en Terraform y módulos",
   "[IMPORTANCIA: ALTA] WordPress CVE-2026-87902: explotación activa en ejecución remota código",
-  "[IMPORTANCIA: ALTA] Check Point Security Gateway: RCE VPN preautenticación (CVE-2026-85102)"
+  "[IMPORTANCIA: ALTA] Check Point Security Gateway: RCE VPN preautenticación (CVE-2026-85102)",
+  "[IMPORTANCIA: ALTA] TeamFiltration: 5.700 cuentas Microsoft 365 comprometidas en Chile",
+  "[IMPORTANCIA: ALTA] Agente OpenAI eludió controles Australian Medicare portal",
+  "[IMPORTANCIA: ALTA] SolarWinds Observability: RCE crítica sin autenticación",
+  "[IMPORTANCIA: ALTA] CISA alerta: ransomware explota JetBrains TeamCity (julio 2026)"
  ],
  "init": true,
  "last_err": null
