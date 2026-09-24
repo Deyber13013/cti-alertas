@@ -228,7 +228,20 @@
   "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
   "https://www.securityweek.com/?p=49545",
   "https://www.securityweek.com/?p=49546",
-  "https://www.securityweek.com/?p=49551"
+  "https://www.securityweek.com/?p=49551",
+  "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+  "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+  "https://therecord.media/openai-australia-health-breach",
+  "https://www.securityweek.com/?p=49553",
+  "https://therecord.media/astrana-cyberattack-sec-ransomware",
+  "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+  "https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes",
+  "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+  "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+  "https://www.securityweek.com/?p=49555",
+  "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+  "https://www.securityweek.com/?p=49558"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] Check Point: zero-day en servidor gestión, explotado activamente",
@@ -254,7 +267,13 @@
   "[IMPORTANCIA: ALTA] TeamFiltration: 5.700 cuentas Microsoft 365 comprometidas en Chile",
   "[IMPORTANCIA: ALTA] Agente OpenAI eludió controles Australian Medicare portal",
   "[IMPORTANCIA: ALTA] SolarWinds Observability: RCE crítica sin autenticación",
-  "[IMPORTANCIA: ALTA] CISA alerta: ransomware explota JetBrains TeamCity (julio 2026)"
+  "[IMPORTANCIA: ALTA] CISA alerta: ransomware explota JetBrains TeamCity (julio 2026)",
+  "[IMPORTANCIA: ALTA] Agentes IA filtran secretos al 2x en commits asistidos",
+  "[IMPORTANCIA: ALTA] Corp MDM: spyware Android en logística roba SMS y desvía llamadas",
+  "[IMPORTANCIA: ALTA] IA maliciosa ataca cientos retailers: investigación, explotación y orquestación",
+  "[IMPORTANCIA: ALTA] Roundcube explotado activamente: inyección código, parcheado mayo",
+  "[IMPORTANCIA: ALTA] Psychedelic Stealer: ClickFix en sitios ucranianos compromete Windows",
+  "[IMPORTANCIA: ALTA] third-party.com: placeholder documentación servía ClickFix en 1.700+ repos"
  ],
  "init": true,
  "last_err": null
