@@ -282,10 +282,11 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
   "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
   "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
-  "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident"
+  "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+  "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] CLOSEDQUORUM: malware Windows con voto de hasta 4 modelos IA",
   "[IMPORTANCIA: ALTA] MikroTrick: cadena RCE sin autenticación en MikroTik RouterOS expuesto",
   "[IMPORTANCIA: ALTA] Agentes IA maliciosos: 600K tarjetas robadas, 100+ sitios infectados skimmers",
   "[IMPORTANCIA: ALTA] GitLab: dirección email privada permite push de código y ejecución CI/CD",
@@ -314,7 +315,8 @@
   "[IMPORTANCIA: ALTA] Dyfed-Powys Police ataque cibernético, datos personal comprometido",
   "[IMPORTANCIA: ALTA] CISA alerta: WSO2, SharePoint, Adobe Commerce explotadas activamente",
   "[IMPORTANCIA: ALTA] Elementor WordPress: CSRF crea cuentas administrador sin autenticación",
-  "[IMPORTANCIA: MUY ALTA] Kiteworks: amenaza activa de actores federales, detener plataforma inmediatamente"
+  "[IMPORTANCIA: MUY ALTA] Kiteworks: amenaza activa de actores federales, detener plataforma inmediatamente",
+  "[IMPORTANCIA: MEDIA] Clop gang: path traversal Grav CMS comprometió leak site"
  ],
  "init": true,
  "last_err": null
