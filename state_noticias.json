@@ -256,11 +256,19 @@
   "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
   "https://www.welivesecurity.com/es/seguridad-corporativa/agentes-ia-ciberseguridad-pymes/",
   "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-  "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
+  "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+  "https://www.securityweek.com/?p=49564",
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+  "https://www.securityweek.com/?p=49567",
+  "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+  "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+  "https://www.securityweek.com/?p=49570",
+  "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+  "https://therecord.media/openai-australia-breach-cyber",
+  "https://www.securityweek.com/?p=49574"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Arista VCO: zero-day crítico explotado, acceso a funcionalidad privilegiada",
-  "[IMPORTANCIA: ALTA] EvilTokens: plataforma phishing basada en IA, desmantelada por Microsoft",
   "[IMPORTANCIA: ALTA] Adobe Connect y AEM Forms: 9 flaws críticos (RCE, escalada de privilegios)",
   "[IMPORTANCIA: MEDIA] Microsoft: actualizaciones de septiembre 2026 rompen Always On VPN en Windows 11",
   "[IMPORTANCIA: ALTA] Linux kernel AF_UNIX use-after-free, escape de contenedor a root",
@@ -288,7 +296,9 @@
   "[IMPORTANCIA: ALTA] OnePlus: escalada privilegios sin permisos especiales en OxygenOS",
   "[IMPORTANCIA: ALTA] Carbonato: botnet con agentes IA compromete hosts Docker expuestos",
   "[IMPORTANCIA: ALTA] MacSync malware: iCloud calendars como canal C2",
-  "[IMPORTANCIA: ALTA] WSO2 y Adobe Commerce: flaws críticos explotados activamente"
+  "[IMPORTANCIA: ALTA] WSO2 y Adobe Commerce: flaws críticos explotados activamente",
+  "[IMPORTANCIA: ALTA] Salesforce Agentforce: tres flaws zero-click exfiltración datos",
+  "[IMPORTANCIA: ALTA] Roundcube CVE-2026-48842: inyección SQL preautenticación explotada activamente"
  ],
  "init": true,
  "last_err": null
