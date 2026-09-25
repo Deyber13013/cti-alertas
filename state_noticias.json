@@ -266,12 +266,21 @@
   "https://www.securityweek.com/?p=49570",
   "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
   "https://therecord.media/openai-australia-breach-cyber",
-  "https://www.securityweek.com/?p=49574"
+  "https://www.securityweek.com/?p=49574",
+  "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+  "https://www.securityweek.com/?p=49577",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+  "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+  "https://www.securityweek.com/?p=49586",
+  "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+  "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+  "https://therecord.media/wales-cyberattack-police-breach",
+  "https://www.securityweek.com/?p=49588",
+  "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Adobe Connect y AEM Forms: 9 flaws críticos (RCE, escalada de privilegios)",
-  "[IMPORTANCIA: MEDIA] Microsoft: actualizaciones de septiembre 2026 rompen Always On VPN en Windows 11",
-  "[IMPORTANCIA: ALTA] Linux kernel AF_UNIX use-after-free, escape de contenedor a root",
   "[IMPORTANCIA: ALTA] cPanel CalDAV/CardDAV RCE como root; WP Toolkit escalada privilegios",
   "[IMPORTANCIA: ALTA] Cadena suministro: MemTensor comprometido, malware sckit en npm/PyPI",
   "[IMPORTANCIA: ALTA] GCP Confused Deputy: YAML malicioso en Kubernetes escala a org completa",
@@ -298,7 +307,10 @@
   "[IMPORTANCIA: ALTA] MacSync malware: iCloud calendars como canal C2",
   "[IMPORTANCIA: ALTA] WSO2 y Adobe Commerce: flaws críticos explotados activamente",
   "[IMPORTANCIA: ALTA] Salesforce Agentforce: tres flaws zero-click exfiltración datos",
-  "[IMPORTANCIA: ALTA] Roundcube CVE-2026-48842: inyección SQL preautenticación explotada activamente"
+  "[IMPORTANCIA: ALTA] Roundcube CVE-2026-48842: inyección SQL preautenticación explotada activamente",
+  "[IMPORTANCIA: ALTA] GitHub Actions comprometidas reactivadas, malware Mini Shai-Hulud",
+  "[IMPORTANCIA: ALTA] PamStealer macOS: cifrado lado servidor y persistencia multicapa",
+  "[IMPORTANCIA: ALTA] Dyfed-Powys Police ataque cibernético, datos personal comprometido"
  ],
  "init": true,
  "last_err": null
