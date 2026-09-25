@@ -278,12 +278,13 @@
   "https://therecord.media/wales-cyberattack-police-breach",
   "https://www.securityweek.com/?p=49588",
   "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+  "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+  "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+  "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] cPanel CalDAV/CardDAV RCE como root; WP Toolkit escalada privilegios",
-  "[IMPORTANCIA: ALTA] Cadena suministro: MemTensor comprometido, malware sckit en npm/PyPI",
-  "[IMPORTANCIA: ALTA] GCP Confused Deputy: YAML malicioso en Kubernetes escala a org completa",
   "[IMPORTANCIA: ALTA] CLOSEDQUORUM: malware Windows con voto de hasta 4 modelos IA",
   "[IMPORTANCIA: ALTA] MikroTrick: cadena RCE sin autenticación en MikroTik RouterOS expuesto",
   "[IMPORTANCIA: ALTA] Agentes IA maliciosos: 600K tarjetas robadas, 100+ sitios infectados skimmers",
@@ -310,7 +311,10 @@
   "[IMPORTANCIA: ALTA] Roundcube CVE-2026-48842: inyección SQL preautenticación explotada activamente",
   "[IMPORTANCIA: ALTA] GitHub Actions comprometidas reactivadas, malware Mini Shai-Hulud",
   "[IMPORTANCIA: ALTA] PamStealer macOS: cifrado lado servidor y persistencia multicapa",
-  "[IMPORTANCIA: ALTA] Dyfed-Powys Police ataque cibernético, datos personal comprometido"
+  "[IMPORTANCIA: ALTA] Dyfed-Powys Police ataque cibernético, datos personal comprometido",
+  "[IMPORTANCIA: ALTA] CISA alerta: WSO2, SharePoint, Adobe Commerce explotadas activamente",
+  "[IMPORTANCIA: ALTA] Elementor WordPress: CSRF crea cuentas administrador sin autenticación",
+  "[IMPORTANCIA: MUY ALTA] Kiteworks: amenaza activa de actores federales, detener plataforma inmediatamente"
  ],
  "init": true,
  "last_err": null
