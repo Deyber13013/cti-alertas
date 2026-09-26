@@ -290,11 +290,15 @@
   "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
   "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
   "https://www.securityweek.com/?p=49592",
-  "https://www.securityweek.com/?p=49582"
+  "https://www.securityweek.com/?p=49582",
+  "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+  "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+  "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Cadena suministro HashiCorp: malware Go en Terraform y módulos",
-  "[IMPORTANCIA: ALTA] WordPress CVE-2026-87902: explotación activa en ejecución remota código",
   "[IMPORTANCIA: ALTA] Check Point Security Gateway: RCE VPN preautenticación (CVE-2026-85102)",
   "[IMPORTANCIA: ALTA] TeamFiltration: 5.700 cuentas Microsoft 365 comprometidas en Chile",
   "[IMPORTANCIA: ALTA] Agente OpenAI eludió controles Australian Medicare portal",
@@ -322,7 +326,9 @@
   "[IMPORTANCIA: MEDIA] Clop gang: path traversal Grav CMS comprometió leak site",
   "[IMPORTANCIA: MUY ALTA] Kiteworks: amenaza activa de actores federales, detener plataforma",
   "[IMPORTANCIA: ALTA] SharePoint RCE y MikroTik RouterOS explotados activamente",
-  "[IMPORTANCIA: ALTA] x47.c botnet: usa IA Grok para persistencia y drenaje de APIs"
+  "[IMPORTANCIA: ALTA] x47.c botnet: usa IA Grok para persistencia y drenaje de APIs",
+  "[IMPORTANCIA: ALTA] Oracle PeopleSoft CVE-2026-35273: explotación masiva activa",
+  "[IMPORTANCIA: ALTA] OpenAI Agents: fuga accidental de imágenes a servicios terceros"
  ],
  "init": true,
  "last_err": null
