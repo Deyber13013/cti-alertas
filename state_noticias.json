@@ -299,11 +299,11 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
   "https://www.securityweek.com/?p=49597",
   "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/"
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+  "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+  "https://www.securityweek.com/?p=49599"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Agente OpenAI eludió controles Australian Medicare portal",
-  "[IMPORTANCIA: ALTA] SolarWinds Observability: RCE crítica sin autenticación",
   "[IMPORTANCIA: ALTA] CISA alerta: ransomware explota JetBrains TeamCity (julio 2026)",
   "[IMPORTANCIA: ALTA] Agentes IA filtran secretos al 2x en commits asistidos",
   "[IMPORTANCIA: ALTA] Corp MDM: spyware Android en logística roba SMS y desvía llamadas",
@@ -331,7 +331,9 @@
   "[IMPORTANCIA: ALTA] Oracle PeopleSoft CVE-2026-35273: explotación masiva activa",
   "[IMPORTANCIA: ALTA] OpenAI Agents: fuga accidental de imágenes a servicios terceros",
   "[IMPORTANCIA: ALTA] Lunex Stealer abusa driver AMD para deshabilitar monitoreo",
-  "[IMPORTANCIA: ALTA] ShinyHunters evita WAF en Oracle PeopleSoft CVE-2026-35273"
+  "[IMPORTANCIA: ALTA] ShinyHunters evita WAF en Oracle PeopleSoft CVE-2026-35273",
+  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: dos RCE zero-day sin parche, explotación activa",
+  "[IMPORTANCIA: ALTA] Microsoft SharePoint CVE-2026-65660: explotación activa, KEV CISA"
  ],
  "init": true,
  "last_err": null
