@@ -306,12 +306,26 @@
   "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
   "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+  "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+  "https://www.securityweek.com/?p=49605",
+  "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+  "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+  "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+  "https://www.securityweek.com/?p=49607",
+  "https://www.securityweek.com/?p=49609",
+  "https://www.securityweek.com/?p=49612",
+  "https://www.securityweek.com/?p=49615",
+  "https://www.securityweek.com/?p=49617",
+  "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+  "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+  "https://www.securityweek.com/?p=49619",
+  "https://therecord.media/hacker-telecom-army-sentenced",
+  "https://therecord.media/poland-cyberattack-medical-medyc",
+  "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+  "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Agentes IA filtran secretos al 2x en commits asistidos",
-  "[IMPORTANCIA: ALTA] Corp MDM: spyware Android en logística roba SMS y desvía llamadas",
-  "[IMPORTANCIA: ALTA] IA maliciosa ataca cientos retailers: investigación, explotación y orquestación",
   "[IMPORTANCIA: ALTA] Roundcube explotado activamente: inyección código, parcheado mayo",
   "[IMPORTANCIA: ALTA] Psychedelic Stealer: ClickFix en sitios ucranianos compromete Windows",
   "[IMPORTANCIA: ALTA] third-party.com: placeholder documentación servía ClickFix en 1.700+ repos",
@@ -338,7 +352,10 @@
   "[IMPORTANCIA: ALTA] ShinyHunters evita WAF en Oracle PeopleSoft CVE-2026-35273",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: dos RCE zero-day sin parche, explotación activa",
   "[IMPORTANCIA: ALTA] Microsoft SharePoint CVE-2026-65660: explotación activa, KEV CISA",
-  "[IMPORTANCIA: ALTA] Cloudflare Containers: falla aislamiento entre clientes"
+  "[IMPORTANCIA: ALTA] Cloudflare Containers: falla aislamiento entre clientes",
+  "[IMPORTANCIA: ALTA] Citrix NetScaler: dos RCE zero-day, explotación activa global",
+  "[IMPORTANCIA: ALTA] JADEPUFFER (Storm-3168) abusa service principals para destruir recursos Azure",
+  "[IMPORTANCIA: ALTA] 80.000+ dominios: credenciales IA robadas, riesgo LLMjacking masivo"
  ],
  "init": true,
  "last_err": "2026-09-27T19:13:43.684091+00:00"
