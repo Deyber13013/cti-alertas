@@ -338,12 +338,26 @@
   "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
   "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
   "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-  "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/"
+  "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+  "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+  "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+  "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+  "https://www.securityweek.com/?p=49642",
+  "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+  "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+  "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+  "https://www.securityweek.com/?p=49651",
+  "6aba6d0a3d24eb0001d3daf2",
+  "https://www.securityweek.com/?p=49657",
+  "https://www.securityweek.com/?p=49660",
+  "https://www.securityweek.com/?p=49662",
+  "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+  "https://www.securityweek.com/?p=49656",
+  "https://www.securityweek.com/?p=49666",
+  "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
+  "https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] WSO2 y Adobe Commerce: flaws críticos explotados activamente",
-  "[IMPORTANCIA: ALTA] Salesforce Agentforce: tres flaws zero-click exfiltración datos",
-  "[IMPORTANCIA: ALTA] Roundcube CVE-2026-48842: inyección SQL preautenticación explotada activamente",
   "[IMPORTANCIA: ALTA] GitHub Actions comprometidas reactivadas, malware Mini Shai-Hulud",
   "[IMPORTANCIA: ALTA] PamStealer macOS: cifrado lado servidor y persistencia multicapa",
   "[IMPORTANCIA: ALTA] Dyfed-Powys Police ataque cibernético, datos personal comprometido",
@@ -370,7 +384,10 @@
   "[IMPORTANCIA: ALTA] Bitget: $388M robados vía falla en producto terceros",
   "[IMPORTANCIA: ALTA] NeedyMantis: malware mantiene acceso persistente en redes comprometidas",
   "[IMPORTANCIA: ALTA] Supabase: 16.000+ bases datos exponen PII, contraseñas, tokens",
-  "[IMPORTANCIA: ALTA] Apple CoreGraphics: CVE-2026-86950 explotado en ataques dirigidos"
+  "[IMPORTANCIA: ALTA] Apple CoreGraphics: CVE-2026-86950 explotado en ataques dirigidos",
+  "[IMPORTANCIA: ALTA] MCP Python SDK: credenciales OAuth robadas por servidor malicioso",
+  "[IMPORTANCIA: ALTA] Kiteworks: vulnerabilidad crítica parchada, sistemas en línea",
+  "[IMPORTANCIA: ALTA] Pentagon: 3 millones personas expuestas en brecha DMDC"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
