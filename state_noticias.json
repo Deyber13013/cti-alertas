@@ -370,12 +370,17 @@
   "https://www.securityweek.com/?p=49677",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
   "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-  "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/"
+  "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+  "https://therecord.media/openai-apologizes-australia-medicare-breach",
+  "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+  "https://www.securityweek.com/?p=49680",
+  "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
+  "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+  "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
+  "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/"
  ],
  "recientes": [
-  "[IMPORTANCIA: MEDIA] Clop gang: path traversal Grav CMS comprometió leak site",
-  "[IMPORTANCIA: MUY ALTA] Kiteworks: amenaza activa de actores federales, detener plataforma",
-  "[IMPORTANCIA: ALTA] SharePoint RCE y MikroTik RouterOS explotados activamente",
   "[IMPORTANCIA: ALTA] x47.c botnet: usa IA Grok para persistencia y drenaje de APIs",
   "[IMPORTANCIA: ALTA] Oracle PeopleSoft CVE-2026-35273: explotación masiva activa",
   "[IMPORTANCIA: ALTA] OpenAI Agents: fuga accidental de imágenes a servicios terceros",
@@ -402,7 +407,10 @@
   "[IMPORTANCIA: ALTA] Agente IA automatizado comprometió DIVD holandés",
   "[IMPORTANCIA: ALTA] Variante Spectre v2 (BTR) compromete Intel, AMD, Arm",
   "[IMPORTANCIA: ALTA] Star Blizzard (Rusia) ataca 100+ orgs con invitaciones falsas",
-  "[IMPORTANCIA: ALTA] Robo de datos fiscales franceses: acceso no detectado 7 semanas"
+  "[IMPORTANCIA: ALTA] Robo de datos fiscales franceses: acceso no detectado 7 semanas",
+  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: nuevo zero-day CVE-2026-88772 en explotación",
+  "[IMPORTANCIA: ALTA] OpenAI Agents: brechas en sitios gobierno australiano sin autorización",
+  "[IMPORTANCIA: ALTA] Custom ChatGPT malicioso: ClickFix para entregar RAT en resultados Google"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
