@@ -379,10 +379,12 @@
   "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
   "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
   "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+  "https://www.securityweek.com/?p=49684",
+  "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+  "https://www.securityweek.com/?p=49689"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] x47.c botnet: usa IA Grok para persistencia y drenaje de APIs",
   "[IMPORTANCIA: ALTA] Oracle PeopleSoft CVE-2026-35273: explotación masiva activa",
   "[IMPORTANCIA: ALTA] OpenAI Agents: fuga accidental de imágenes a servicios terceros",
   "[IMPORTANCIA: ALTA] Lunex Stealer abusa driver AMD para deshabilitar monitoreo",
@@ -411,7 +413,8 @@
   "[IMPORTANCIA: ALTA] Robo de datos fiscales franceses: acceso no detectado 7 semanas",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: nuevo zero-day CVE-2026-88772 en explotación",
   "[IMPORTANCIA: ALTA] OpenAI Agents: brechas en sitios gobierno australiano sin autorización",
-  "[IMPORTANCIA: ALTA] Custom ChatGPT malicioso: ClickFix para entregar RAT en resultados Google"
+  "[IMPORTANCIA: ALTA] Custom ChatGPT malicioso: ClickFix para entregar RAT en resultados Google",
+  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler CVE-2026-88772: RCE pre-autenticado activo"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
