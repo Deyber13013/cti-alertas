@@ -399,12 +399,21 @@
   "https://www.securityweek.com/?p=49703",
   "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-webauth-xr8beuuU",
   "https://www.securityweek.com/?p=49707",
-  "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/"
+  "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+  "https://www.welivesecurity.com/es/cibercrimen/pdf-malicioso-amenazas-correo-electronico-america-latina/",
+  "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
+  "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+  "https://www.securityweek.com/?p=49712",
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+  "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+  "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+  "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-notice-fBn58ELx",
+  "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+  "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Citrix NetScaler: dos RCE zero-day, explotación activa global",
-  "[IMPORTANCIA: ALTA] JADEPUFFER (Storm-3168) abusa service principals para destruir recursos Azure",
-  "[IMPORTANCIA: ALTA] 80.000+ dominios: credenciales IA robadas, riesgo LLMjacking masivo",
   "[IMPORTANCIA: ALTA] JadePuffer: ataques con IA agentica destruyen recursos Azure",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: dos RCE zero-day explotados activamente",
   "[IMPORTANCIA: ALTA] RatHat Android: malware usa Gemini para identificar víctimas valiosas",
@@ -431,7 +440,10 @@
   "[IMPORTANCIA: ALTA] Campaña CSuite: phishing M365 + RMM, 351 casos EE.UU.",
   "[IMPORTANCIA: ALTA] Star Blizzard: nuevo backdoor CosmicPulse vía RedFlick",
   "[IMPORTANCIA: MUY ALTA] NetScaler: CVE-2026-88771/88772 zero-day explotado",
-  "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: bypass autenticación API sin credenciales"
+  "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: bypass autenticación API sin credenciales",
+  "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: RCE zero-day CVE-2026-76504 activo",
+  "[IMPORTANCIA: ALTA] MikroTik RouterOS: RCE pre-autenticado crítico",
+  "[IMPORTANCIA: ALTA] Zimbra ZCS: RCE sin autenticación CVE-2026-73570 explotado"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
