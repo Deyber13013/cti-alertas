@@ -411,7 +411,13 @@
   "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-notice-fBn58ELx",
   "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
   "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
+  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+  "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+  "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
+  "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+  "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+  "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+  "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] JadePuffer: ataques con IA agentica destruyen recursos Azure",
