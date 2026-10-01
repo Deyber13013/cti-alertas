@@ -447,12 +447,20 @@
   "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
   "https://www.securityweek.com/?p=49645",
   "https://www.securityweek.com/?p=49746",
-  "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html"
+  "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+  "https://fortiguard.fortinet.com/psirt/FG-IR-26-175",
+  "https://therecord.media/killsec-ransomware-raas-arrests-europe",
+  "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+  "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+  "https://www.securityweek.com/?p=49749",
+  "https://www.securityweek.com/?p=49748",
+  "6abd6c72bff6790001c729f7",
+  "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
+  "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+  "https://therecord.media/iran-montenegro-hacker-extradition"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Pentagon: 3 millones personas expuestas en brecha DMDC",
-  "[IMPORTANCIA: ALTA] Actores usan Custom GPTs de ChatGPT en ataques ClickFix",
-  "[IMPORTANCIA: ALTA] 101 paquetes npm maliciosos reclutan desarrolladores a WhatsApp",
   "[IMPORTANCIA: ALTA] Agente IA automatizado comprometió DIVD holandés",
   "[IMPORTANCIA: ALTA] Variante Spectre v2 (BTR) compromete Intel, AMD, Arm",
   "[IMPORTANCIA: ALTA] Star Blizzard (Rusia) ataca 100+ orgs con invitaciones falsas",
@@ -479,7 +487,10 @@
   "[IMPORTANCIA: ALTA] OpenAI: campaña extracción reasoning de IA vinculada a Moonshot AI",
   "[IMPORTANCIA: ALTA] Zammad: zero-days explotados en ataque a DIVD holandés con IA",
   "[IMPORTANCIA: MEDIA] Plataforma facturas polaca: brecha de datos de clientes",
-  "[IMPORTANCIA: ALTA] WordPress: backdoor SC persistente multi-capa en sitios comprometidos"
+  "[IMPORTANCIA: ALTA] WordPress: backdoor SC persistente multi-capa en sitios comprometidos",
+  "[IMPORTANCIA: ALTA] Fortinet: path traversal y NULL byte permiten escritura arbitraria",
+  "[IMPORTANCIA: ALTA] Campañas chinas contra firmas IA y gobiernos asiáticos activas",
+  "[IMPORTANCIA: ALTA] Software OpenAI intenta scraping encubierto de sitios prominentes"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
