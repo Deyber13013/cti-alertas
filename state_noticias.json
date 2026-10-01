@@ -418,12 +418,18 @@
   "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
   "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
   "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua",
-  "https://www.securityweek.com/?p=49716"
+  "https://www.securityweek.com/?p=49716",
+  "https://www.welivesecurity.com/es/seguridad-digital/phishing-correo-electronico-ya-no-se-ve-igual/",
+  "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+  "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+  "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+  "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+  "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+  "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+  "https://www.securityweek.com/?p=49719",
+  "https://www.securityweek.com/?p=49721"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] JadePuffer: ataques con IA agentica destruyen recursos Azure",
-  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: dos RCE zero-day explotados activamente",
-  "[IMPORTANCIA: ALTA] RatHat Android: malware usa Gemini para identificar víctimas valiosas",
   "[IMPORTANCIA: ALTA] Bitget: $388M robados vía falla en producto terceros",
   "[IMPORTANCIA: ALTA] NeedyMantis: malware mantiene acceso persistente en redes comprometidas",
   "[IMPORTANCIA: ALTA] Supabase: 16.000+ bases datos exponen PII, contraseñas, tokens",
@@ -450,7 +456,10 @@
   "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: bypass autenticación API sin credenciales",
   "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: RCE zero-day CVE-2026-76504 activo",
   "[IMPORTANCIA: ALTA] MikroTik RouterOS: RCE pre-autenticado crítico",
-  "[IMPORTANCIA: ALTA] Zimbra ZCS: RCE sin autenticación CVE-2026-73570 explotado"
+  "[IMPORTANCIA: ALTA] Zimbra ZCS: RCE sin autenticación CVE-2026-73570 explotado",
+  "[IMPORTANCIA: ALTA] NetScaler: web shells y robo de configuración post-explotación",
+  "[IMPORTANCIA: MEDIA] MetaMask: incidente en infraestructura, validadores salen",
+  "[IMPORTANCIA: ALTA] Cisco SD-WAN: RCE sin autenticación en Catalyst explotado"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
