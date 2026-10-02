@@ -479,10 +479,17 @@
   "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
   "https://www.securityweek.com/?p=49771",
   "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+  "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+  "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+  "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+  "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+  "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+  "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxe-V8NMuMZJ",
+  "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+  "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Custom ChatGPT malicioso: ClickFix para entregar RAT en resultados Google",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler CVE-2026-88772: RCE pre-autenticado activo",
   "[IMPORTANCIA: ALTA] OpenSSL DTLS: fuga de memoria de heap sin cifrar",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: nuevo RCE explotado, deploy WHIPSHOT/SLAPSHOT",
@@ -511,7 +518,8 @@
   "[IMPORTANCIA: ALTA] Grupo Warlock (China) explota SharePoint en infraestructura crítica",
   "[IMPORTANCIA: ALTA] Dell CSM: dos vulnerabilidades máxima severidad en almacenamiento",
   "[IMPORTANCIA: ALTA] GitLab AI Gateway: RCE crítico en ejecución activa",
-  "[IMPORTANCIA: MUY ALTA] Warlock: ransomware explotando SharePoint en infraestructura crítica"
+  "[IMPORTANCIA: MUY ALTA] Warlock: ransomware explotando SharePoint en infraestructura crítica",
+  "[IMPORTANCIA: ALTA] Frontline Education: brecha por vulnerabilidad tercero"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
