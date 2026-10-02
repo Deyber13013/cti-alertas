@@ -468,12 +468,20 @@
   "https://www.securityweek.com/?p=49754",
   "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
   "https://www.securityweek.com/?p=49756",
-  "https://www.securityweek.com/?p=49760"
+  "https://www.securityweek.com/?p=49760",
+  "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+  "https://www.securityweek.com/?p=49764",
+  "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+  "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+  "https://www.securityweek.com/?p=49767",
+  "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+  "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
+  "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
+  "https://www.securityweek.com/?p=49771",
+  "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Robo de datos fiscales franceses: acceso no detectado 7 semanas",
-  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: nuevo zero-day CVE-2026-88772 en explotación",
-  "[IMPORTANCIA: ALTA] OpenAI Agents: brechas en sitios gobierno australiano sin autorización",
   "[IMPORTANCIA: ALTA] Custom ChatGPT malicioso: ClickFix para entregar RAT en resultados Google",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler CVE-2026-88772: RCE pre-autenticado activo",
   "[IMPORTANCIA: ALTA] OpenSSL DTLS: fuga de memoria de heap sin cifrar",
@@ -500,7 +508,10 @@
   "[IMPORTANCIA: ALTA] Software OpenAI intenta scraping encubierto de sitios prominentes",
   "[IMPORTANCIA: ALTA] Fortinet FortiMail: zero-day RCE crítico en explotación activa",
   "[IMPORTANCIA: ALTA] Fortinet FortiMail CVE-2026-104286 RCE sin autenticación",
-  "[IMPORTANCIA: ALTA] Grupo Warlock (China) explota SharePoint en infraestructura crítica"
+  "[IMPORTANCIA: ALTA] Grupo Warlock (China) explota SharePoint en infraestructura crítica",
+  "[IMPORTANCIA: ALTA] Dell CSM: dos vulnerabilidades máxima severidad en almacenamiento",
+  "[IMPORTANCIA: ALTA] GitLab AI Gateway: RCE crítico en ejecución activa",
+  "[IMPORTANCIA: MUY ALTA] Warlock: ransomware explotando SharePoint en infraestructura crítica"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
