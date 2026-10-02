@@ -458,10 +458,11 @@
   "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
   "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
   "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-  "https://therecord.media/iran-montenegro-hacker-extradition"
+  "https://therecord.media/iran-montenegro-hacker-extradition",
+  "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Agente IA automatizado comprometió DIVD holandés",
   "[IMPORTANCIA: ALTA] Variante Spectre v2 (BTR) compromete Intel, AMD, Arm",
   "[IMPORTANCIA: ALTA] Star Blizzard (Rusia) ataca 100+ orgs con invitaciones falsas",
   "[IMPORTANCIA: ALTA] Robo de datos fiscales franceses: acceso no detectado 7 semanas",
@@ -490,7 +491,8 @@
   "[IMPORTANCIA: ALTA] WordPress: backdoor SC persistente multi-capa en sitios comprometidos",
   "[IMPORTANCIA: ALTA] Fortinet: path traversal y NULL byte permiten escritura arbitraria",
   "[IMPORTANCIA: ALTA] Campañas chinas contra firmas IA y gobiernos asiáticos activas",
-  "[IMPORTANCIA: ALTA] Software OpenAI intenta scraping encubierto de sitios prominentes"
+  "[IMPORTANCIA: ALTA] Software OpenAI intenta scraping encubierto de sitios prominentes",
+  "[IMPORTANCIA: ALTA] Fortinet FortiMail: zero-day RCE crítico en explotación activa"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
