@@ -487,11 +487,13 @@
   "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
   "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxe-V8NMuMZJ",
   "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
-  "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists"
+  "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+  "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+  "https://www.securityweek.com/?p=49768",
+  "https://www.securityweek.com/?p=49775",
+  "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
  ],
  "recientes": [
-  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler CVE-2026-88772: RCE pre-autenticado activo",
-  "[IMPORTANCIA: ALTA] OpenSSL DTLS: fuga de memoria de heap sin cifrar",
   "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: nuevo RCE explotado, deploy WHIPSHOT/SLAPSHOT",
   "[IMPORTANCIA: ALTA] Campaña UAT-11587: backdoor Antino en gobierno asiático",
   "[IMPORTANCIA: ALTA] Campaña CSuite: phishing M365 + RMM, 351 casos EE.UU.",
@@ -519,7 +521,9 @@
   "[IMPORTANCIA: ALTA] Dell CSM: dos vulnerabilidades máxima severidad en almacenamiento",
   "[IMPORTANCIA: ALTA] GitLab AI Gateway: RCE crítico en ejecución activa",
   "[IMPORTANCIA: MUY ALTA] Warlock: ransomware explotando SharePoint en infraestructura crítica",
-  "[IMPORTANCIA: ALTA] Frontline Education: brecha por vulnerabilidad tercero"
+  "[IMPORTANCIA: ALTA] Frontline Education: brecha por vulnerabilidad tercero",
+  "[IMPORTANCIA: ALTA] Fortra BoKS: bypass autenticación, ejecución de comandos",
+  "[IMPORTANCIA: ALTA] Universidad Técnica Dinamarca (DTU): brecha en IAM, 200.000 expuestos"
  ],
  "init": true,
  "last_err": "2026-09-29T00:36:42.192157+00:00"
