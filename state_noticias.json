@@ -499,10 +499,10 @@
   "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
   "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-  "https://www.securityweek.com/?p=49780"
+  "https://www.securityweek.com/?p=49780",
+  "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Campaña UAT-11587: backdoor Antino en gobierno asiático",
   "[IMPORTANCIA: ALTA] Campaña CSuite: phishing M365 + RMM, 351 casos EE.UU.",
   "[IMPORTANCIA: ALTA] Star Blizzard: nuevo backdoor CosmicPulse vía RedFlick",
   "[IMPORTANCIA: MUY ALTA] NetScaler: CVE-2026-88771/88772 zero-day explotado",
@@ -531,7 +531,8 @@
   "[IMPORTANCIA: ALTA] Frontline Education: brecha por vulnerabilidad tercero",
   "[IMPORTANCIA: ALTA] Fortra BoKS: bypass autenticación, ejecución de comandos",
   "[IMPORTANCIA: ALTA] Universidad Técnica Dinamarca (DTU): brecha en IAM, 200.000 expuestos",
-  "[IMPORTANCIA: ALTA] TA419 (China): phishing AitM contra expertos IA EE.UU."
+  "[IMPORTANCIA: ALTA] TA419 (China): phishing AitM contra expertos IA EE.UU.",
+  "[IMPORTANCIA: ALTA] NetScaler: CVE-2026-88779 DoS zero-day en explotación activa"
  ],
  "init": true,
  "last_err": "2026-10-03T21:49:18.609180+00:00"
