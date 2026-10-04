@@ -495,10 +495,12 @@
   "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
   "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
   "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-  "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+  "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+  "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+  "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
  ],
  "recientes": [
-  "[IMPORTANCIA: MUY ALTA] Citrix NetScaler: nuevo RCE explotado, deploy WHIPSHOT/SLAPSHOT",
   "[IMPORTANCIA: ALTA] Campaña UAT-11587: backdoor Antino en gobierno asiático",
   "[IMPORTANCIA: ALTA] Campaña CSuite: phishing M365 + RMM, 351 casos EE.UU.",
   "[IMPORTANCIA: ALTA] Star Blizzard: nuevo backdoor CosmicPulse vía RedFlick",
@@ -527,7 +529,8 @@
   "[IMPORTANCIA: MUY ALTA] Warlock: ransomware explotando SharePoint en infraestructura crítica",
   "[IMPORTANCIA: ALTA] Frontline Education: brecha por vulnerabilidad tercero",
   "[IMPORTANCIA: ALTA] Fortra BoKS: bypass autenticación, ejecución de comandos",
-  "[IMPORTANCIA: ALTA] Universidad Técnica Dinamarca (DTU): brecha en IAM, 200.000 expuestos"
+  "[IMPORTANCIA: ALTA] Universidad Técnica Dinamarca (DTU): brecha en IAM, 200.000 expuestos",
+  "[IMPORTANCIA: ALTA] TA419 (China): phishing AitM contra expertos IA EE.UU."
  ],
  "init": true,
  "last_err": "2026-10-03T21:49:18.609180+00:00"
