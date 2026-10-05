@@ -525,12 +525,17 @@
   "https://www.securityweek.com/?p=49809",
   "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
   "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-  "https://therecord.media/ransomware-university-illinois-chicago"
+  "https://therecord.media/ransomware-university-illinois-chicago",
+  "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+  "https://therecord.media/atb-ukraine-cyberattack-ransomware",
+  "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+  "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
+  "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
+  "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+  "https://therecord.media/wikimedia-foundation-openai-agents-report",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: RCE zero-day CVE-2026-76504 activo",
-  "[IMPORTANCIA: ALTA] MikroTik RouterOS: RCE pre-autenticado crítico",
-  "[IMPORTANCIA: ALTA] Zimbra ZCS: RCE sin autenticación CVE-2026-73570 explotado",
   "[IMPORTANCIA: ALTA] NetScaler: web shells y robo de configuración post-explotación",
   "[IMPORTANCIA: MEDIA] MetaMask: incidente en infraestructura, validadores salen",
   "[IMPORTANCIA: ALTA] Cisco SD-WAN: RCE sin autenticación en Catalyst explotado",
@@ -557,7 +562,10 @@
   "[IMPORTANCIA: ALTA] Rejetto HFS: RCE por falsificación de sesión CVE-2026-61500",
   "[IMPORTANCIA: MUY ALTA] Dinamarca: brecha en registro poblacional, 8.8 millones expuestos",
   "[IMPORTANCIA: ALTA] Corea del Sur: ataques a banca con IA, investigación en curso",
-  "[IMPORTANCIA: ALTA] Universidad Illinois Chicago: ransomware en escuela medicina, datos robados"
+  "[IMPORTANCIA: ALTA] Universidad Illinois Chicago: ransomware en escuela medicina, datos robados",
+  "[IMPORTANCIA: ALTA] Microsoft Exchange: escalada de privilegios autenticado CVE-2026-96940",
+  "[IMPORTANCIA: ALTA] Citrix NetScaler: nueva vulnerabilidad bajo vigilancia de gobiernos",
+  "[IMPORTANCIA: ALTA] ATB (Ucrania): ransomware con extorsión de datos"
  ],
  "init": true,
  "last_err": "2026-10-03T21:49:18.609180+00:00"
