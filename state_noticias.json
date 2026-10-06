@@ -533,11 +533,18 @@
   "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
   "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
   "https://therecord.media/wikimedia-foundation-openai-agents-report",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+  "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+  "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+  "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+  "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+  "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+  "https://www.securityweek.com/?p=49813",
+  "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+  "https://www.securityweek.com/?p=49815"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] NetScaler: web shells y robo de configuración post-explotación",
-  "[IMPORTANCIA: MEDIA] MetaMask: incidente en infraestructura, validadores salen",
   "[IMPORTANCIA: ALTA] Cisco SD-WAN: RCE sin autenticación en Catalyst explotado",
   "[IMPORTANCIA: ALTA] 500.000 credenciales activas expuestas en GitHub",
   "[IMPORTANCIA: ALTA] Cisco SD-WAN Manager: bypass autenticación API CVE-2026-76504 en KEV",
@@ -565,7 +572,9 @@
   "[IMPORTANCIA: ALTA] Universidad Illinois Chicago: ransomware en escuela medicina, datos robados",
   "[IMPORTANCIA: ALTA] Microsoft Exchange: escalada de privilegios autenticado CVE-2026-96940",
   "[IMPORTANCIA: ALTA] Citrix NetScaler: nueva vulnerabilidad bajo vigilancia de gobiernos",
-  "[IMPORTANCIA: ALTA] ATB (Ucrania): ransomware con extorsión de datos"
+  "[IMPORTANCIA: ALTA] ATB (Ucrania): ransomware con extorsión de datos",
+  "[IMPORTANCIA: ALTA] ClickFix: evasión de restricciones Windows mediante caché",
+  "[IMPORTANCIA: ALTA] Atlassian Data Center: lectura de archivos sin autenticación"
  ],
  "init": true,
  "last_err": "2026-10-03T21:49:18.609180+00:00"
