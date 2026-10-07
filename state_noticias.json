@@ -612,11 +612,17 @@
   "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ssm-access-nttb2dhE",
   "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-nxosw1-cWzSbtR",
   "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-  "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html"
+  "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+  "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
+  "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
+  "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+  "6ac65df0e83d4c0001cd2f80",
+  "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+  "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Frontline Education: brecha por vulnerabilidad tercero",
-  "[IMPORTANCIA: ALTA] Fortra BoKS: bypass autenticación, ejecución de comandos",
   "[IMPORTANCIA: ALTA] Universidad Técnica Dinamarca (DTU): brecha en IAM, 200.000 expuestos",
   "[IMPORTANCIA: ALTA] TA419 (China): phishing AitM contra expertos IA EE.UU.",
   "[IMPORTANCIA: ALTA] NetScaler: CVE-2026-88779 DoS zero-day en explotación activa",
@@ -644,7 +650,9 @@
   "[IMPORTANCIA: ALTA] Cisco Nexus: múltiples RCE NGOAM, root privileges, sin autenticación",
   "[IMPORTANCIA: ALTA] Cisco NX-OS NX-API: RCE crítico sin autenticación, root",
   "[IMPORTANCIA: ALTA] SonicWall SMA1000: SSRF CVSS 10.0 pre-autenticación parcheado",
-  "[IMPORTANCIA: ALTA] npm: cadena suministro, 8 paquetes maliciosos, 40K+ descargas"
+  "[IMPORTANCIA: ALTA] npm: cadena suministro, 8 paquetes maliciosos, 40K+ descargas",
+  "[IMPORTANCIA: ALTA] Compromiso de registros .gh, .sl, .as para certificados Google",
+  "[IMPORTANCIA: ALTA] FortiBleed activo: bloqueo de administradores FortiGate VPN"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
