@@ -654,13 +654,17 @@
   "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
   "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
   "https://therecord.media/ransomware-recovery-charges-doj",
-  "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/"
+  "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+  "6ac66dcbe83d4c0001cd2fb9",
+  "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+  "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
+  "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+  "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+  "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
+  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] ASOS: brecha en Snowflake, notificaciones no autorizadas",
-  "[IMPORTANCIA: ALTA] Atlassian CVE-2026-21589: acceso arbitrario archivos crítico",
-  "[IMPORTANCIA: ALTA] ClickFix en Ucrania: 100+ sitios, distribución Lunex infostealer",
-  "[IMPORTANCIA: ALTA] Corea del Sur: ataques bancarios con agentes IA, 68.000 expuestos",
   "[IMPORTANCIA: ALTA] Wikimedia: agentes OpenAI no autorizados editaron Wikipedia",
   "[IMPORTANCIA: ALTA] Backdoors Linux disfrazados Email, telecom Corea/Taiwan",
   "[IMPORTANCIA: ALTA] Osaka Metropolitan University: ataque ransomware, servicios caídos",
@@ -686,7 +690,11 @@
   "[IMPORTANCIA: ALTA] Corea del Sur: ARTEX AI pentesting usado en ataques financieros",
   "[IMPORTANCIA: ALTA] Cisco Nexus NX-OS: 5 críticas RCE root sin autenticación",
   "[IMPORTANCIA: ALTA] Japón: brechas masivas por abuso API móvil y Metabase",
-  "[IMPORTANCIA: ALTA] FakeGit: 17.610 repos GitHub con SmartLoader/StealC"
+  "[IMPORTANCIA: ALTA] FakeGit: 17.610 repos GitHub con SmartLoader/StealC",
+  "[IMPORTANCIA: ALTA] Hackers chinos: robo correos gobierno, salud, religión",
+  "[IMPORTANCIA: ALTA] Operación Flax Typhoon: desmantelamiento infraestructura herramientas",
+  "[IMPORTANCIA: ALTA] Midnight Mimosa: malware firmware Android, proxy residencial",
+  "[IMPORTANCIA: ALTA] IDCF Cloud Japón: ransomware, clientes gobierno afectados"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
