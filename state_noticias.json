@@ -620,14 +620,21 @@
   "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
   "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+  "https://www.welivesecurity.com/es/malware/amatera-infostealer-en-aumento-america-latina/",
+  "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+  "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+  "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+  "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+  "https://www.securityweek.com/?p=49863",
+  "https://www.securityweek.com/?p=49866",
+  "https://www.securityweek.com/?p=49868",
+  "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+  "6ac53246dccd8100015134eb",
+  "6ac65ab5b0849f0001774482",
+  "https://www.securityweek.com/?p=49870"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Universidad Técnica Dinamarca (DTU): brecha en IAM, 200.000 expuestos",
-  "[IMPORTANCIA: ALTA] TA419 (China): phishing AitM contra expertos IA EE.UU.",
-  "[IMPORTANCIA: ALTA] NetScaler: CVE-2026-88779 DoS zero-day en explotación activa",
-  "[IMPORTANCIA: ALTA] Rejetto HFS: RCE por falsificación de sesión CVE-2026-61500",
-  "[IMPORTANCIA: MUY ALTA] Dinamarca: brecha en registro poblacional, 8.8 millones expuestos",
   "[IMPORTANCIA: ALTA] Corea del Sur: ataques a banca con IA, investigación en curso",
   "[IMPORTANCIA: ALTA] Universidad Illinois Chicago: ransomware en escuela medicina, datos robados",
   "[IMPORTANCIA: ALTA] Microsoft Exchange: escalada de privilegios autenticado CVE-2026-96940",
@@ -652,7 +659,12 @@
   "[IMPORTANCIA: ALTA] SonicWall SMA1000: SSRF CVSS 10.0 pre-autenticación parcheado",
   "[IMPORTANCIA: ALTA] npm: cadena suministro, 8 paquetes maliciosos, 40K+ descargas",
   "[IMPORTANCIA: ALTA] Compromiso de registros .gh, .sl, .as para certificados Google",
-  "[IMPORTANCIA: ALTA] FortiBleed activo: bloqueo de administradores FortiGate VPN"
+  "[IMPORTANCIA: ALTA] FortiBleed activo: bloqueo de administradores FortiGate VPN",
+  "[IMPORTANCIA: ALTA] Cadena de suministro npm: paquete tensorlake comprometido",
+  "[IMPORTANCIA: ALTA] FortiBleed: atacantes crean cuentas y bloquean acceso legítimo",
+  "[IMPORTANCIA: ALTA] Oracle Health: brecha alcanza 20 millones de registros",
+  "[IMPORTANCIA: ALTA] Campaña APT contra Taiwan: lures de eventos con AitM Google",
+  "[IMPORTANCIA: ALTA] TP-Link ISP routers: vulnerabilidades bajo demanda legal y escrutinio"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
