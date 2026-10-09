@@ -695,10 +695,16 @@
   "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
   "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
   "https://therecord.media/irhythm-data-breach-reports",
-  "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty"
+  "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+  "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+  "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+  "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+  "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+  "https://therecord.media/japan-germany-ransomware-arrest",
+  "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] FortiBleed activo: 86.644 credenciales FortiGate/VPN comprometidas",
   "[IMPORTANCIA: ALTA] LMCache: RCE crítico sin autenticación, sin parche disponible",
   "[IMPORTANCIA: ALTA] Cisco Nexus: RCE MPLS OAM, root privileges, sin autenticación",
   "[IMPORTANCIA: ALTA] Cisco Nexus: múltiples RCE NGOAM, root privileges, sin autenticación",
@@ -727,7 +733,8 @@
   "[IMPORTANCIA: ALTA] Citrix NetScaler: RCE crítico CVE-2026-107406",
   "[IMPORTANCIA: ALTA] AhsayCBS: dos críticas sin parches, explotadas activamente",
   "[IMPORTANCIA: ALTA] SonicWall SMA1000: SSRF CVSS 10.0 explotado 3 días post-parche",
-  "[IMPORTANCIA: MUY ALTA] Flax Typhoon: CISA ordena parcheado de 5 críticas por 11 octubre"
+  "[IMPORTANCIA: MUY ALTA] Flax Typhoon: CISA ordena parcheado de 5 críticas por 11 octubre",
+  "[IMPORTANCIA: ALTA] Cadena suministro GitHub: 340+ repos con workflows maliciosos"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
