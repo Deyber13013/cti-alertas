@@ -663,11 +663,18 @@
   "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
   "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
   "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-  "https://therecord.media/co-creator-empire-dark-net-market-sentenced"
+  "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+  "https://www.welivesecurity.com/es/investigaciones/matchboil-malware-uac-0099-evolucion/",
+  "https://www.securityweek.com/?p=49891",
+  "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+  "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+  "https://www.securityweek.com/?p=49894",
+  "https://www.securityweek.com/?p=49896",
+  "https://www.securityweek.com/?p=49900",
+  "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+  "https://www.securityweek.com/?p=49902"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Wikimedia: agentes OpenAI no autorizados editaron Wikipedia",
-  "[IMPORTANCIA: ALTA] Backdoors Linux disfrazados Email, telecom Corea/Taiwan",
   "[IMPORTANCIA: ALTA] Osaka Metropolitan University: ataque ransomware, servicios caídos",
   "[IMPORTANCIA: ALTA] Brecha en sistema judicial Arizona, 1+ millón expuestos",
   "[IMPORTANCIA: ALTA] SonicWall SMA1000: SSRF máxima severidad sin parches públicos",
@@ -695,7 +702,9 @@
   "[IMPORTANCIA: ALTA] Hackers chinos: robo correos gobierno, salud, religión",
   "[IMPORTANCIA: ALTA] Operación Flax Typhoon: desmantelamiento infraestructura herramientas",
   "[IMPORTANCIA: ALTA] Midnight Mimosa: malware firmware Android, proxy residencial",
-  "[IMPORTANCIA: ALTA] IDCF Cloud Japón: ransomware, clientes gobierno afectados"
+  "[IMPORTANCIA: ALTA] IDCF Cloud Japón: ransomware, clientes gobierno afectados",
+  "[IMPORTANCIA: ALTA] Citrix NetScaler: RCE crítico CVE-2026-107406",
+  "[IMPORTANCIA: ALTA] Citrix NetScaler: RCE crítico CVE-2026-107406"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
