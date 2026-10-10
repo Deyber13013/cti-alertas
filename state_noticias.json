@@ -708,7 +708,9 @@
   "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
   "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
   "https://www.securityweek.com/?p=49925",
-  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/"
+  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+  "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+  "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] LMCache: RCE crítico sin autenticación, sin parche disponible",
