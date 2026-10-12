@@ -730,12 +730,15 @@
   "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
   "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
   "https://www.securityweek.com/?p=49951",
-  "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/"
+  "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+  "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
+  "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+  "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+  "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+  "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+  "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] FortiBleed activo: bloqueo de administradores FortiGate VPN",
-  "[IMPORTANCIA: ALTA] Cadena de suministro npm: paquete tensorlake comprometido",
-  "[IMPORTANCIA: ALTA] FortiBleed: atacantes crean cuentas y bloquean acceso legítimo",
   "[IMPORTANCIA: ALTA] Oracle Health: brecha alcanza 20 millones de registros",
   "[IMPORTANCIA: ALTA] Campaña APT contra Taiwan: lures de eventos con AitM Google",
   "[IMPORTANCIA: ALTA] TP-Link ISP routers: vulnerabilidades bajo demanda legal y escrutinio",
@@ -762,7 +765,10 @@
   "[IMPORTANCIA: ALTA] Bricksforge WordPress: CVE-2026-85097 RCE sin autenticación explotado",
   "[IMPORTANCIA: ALTA] GitLab: máxima severidad RCE en compilador regex CI/CD",
   "[IMPORTANCIA: ALTA] Ahold Delhaize: incidente cibernético retail/cadena suministro",
-  "[IMPORTANCIA: ALTA] Francia: ciberataque desactiva refrigeradores cadenas supermercados"
+  "[IMPORTANCIA: ALTA] Francia: ciberataque desactiva refrigeradores cadenas supermercados",
+  "[IMPORTANCIA: ALTA] Ciberataque desactiva refrigeración en cientos de supermercados Francia",
+  "[IMPORTANCIA: ALTA] Ledger: implante spy chip en dispositivos Southeast Asia",
+  "[IMPORTANCIA: MUY ALTA] Anthropic desconecta modelos IA tras brechas en sitios gobierno USA"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
