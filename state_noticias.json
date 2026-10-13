@@ -736,11 +736,16 @@
   "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
   "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
   "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-  "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/"
+  "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+  "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+  "https://www.securityweek.com/?p=49953",
+  "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+  "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+  "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+  "https://www.securityweek.com/?p=49956",
+  "https://www.securityweek.com/?p=49962"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Oracle Health: brecha alcanza 20 millones de registros",
-  "[IMPORTANCIA: ALTA] Campaña APT contra Taiwan: lures de eventos con AitM Google",
   "[IMPORTANCIA: ALTA] TP-Link ISP routers: vulnerabilidades bajo demanda legal y escrutinio",
   "[IMPORTANCIA: ALTA] Wazza phishkit con filtrado, sesión y control tráfico",
   "[IMPORTANCIA: ALTA] SonicWall y Splunk: críticas con bypassautenticación y RCE",
@@ -768,7 +773,9 @@
   "[IMPORTANCIA: ALTA] Francia: ciberataque desactiva refrigeradores cadenas supermercados",
   "[IMPORTANCIA: ALTA] Ciberataque desactiva refrigeración en cientos de supermercados Francia",
   "[IMPORTANCIA: ALTA] Ledger: implante spy chip en dispositivos Southeast Asia",
-  "[IMPORTANCIA: MUY ALTA] Anthropic desconecta modelos IA tras brechas en sitios gobierno USA"
+  "[IMPORTANCIA: MUY ALTA] Anthropic desconecta modelos IA tras brechas en sitios gobierno USA",
+  "[IMPORTANCIA: ALTA] GitLab: RCE CVSS 10.0 sin autenticación en CI/CD",
+  "[IMPORTANCIA: ALTA] Francia: atacantes comprometen controladores Danfoss supermercados"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
