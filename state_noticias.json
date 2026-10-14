@@ -798,15 +798,20 @@
   "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
   "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
   "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-  "https://www.securityweek.com/?p=49996"
+  "https://www.securityweek.com/?p=49996",
+  "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+  "https://www.securityweek.com/?p=50000",
+  "https://www.securityweek.com/?p=50002",
+  "https://www.securityweek.com/?p=50004",
+  "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+  "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+  "https://www.securityweek.com/?p=50011",
+  "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+  "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+  "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+  "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] AhsayCBS: dos críticas sin parches, explotadas activamente",
-  "[IMPORTANCIA: ALTA] SonicWall SMA1000: SSRF CVSS 10.0 explotado 3 días post-parche",
-  "[IMPORTANCIA: MUY ALTA] Flax Typhoon: CISA ordena parcheado de 5 críticas por 11 octubre",
-  "[IMPORTANCIA: ALTA] Cadena suministro GitHub: 340+ repos con workflows maliciosos",
-  "[IMPORTANCIA: ALTA] Nippon Columbia: malware expone 8.7M registros karaoke",
-  "[IMPORTANCIA: ALTA] CyberXero: IA Claude orquesta ataque a infraestructura crítica ucraniana",
   "[IMPORTANCIA: ALTA] SonicWall SMA1000: CVE-2026-102255 SSRF explotado activamente",
   "[IMPORTANCIA: ALTA] Bricksforge WordPress: CVE-2026-85097 RCE sin autenticación explotado",
   "[IMPORTANCIA: ALTA] GitLab: máxima severidad RCE en compilador regex CI/CD",
@@ -830,7 +835,13 @@
   "[IMPORTANCIA: ALTA] Microsoft Patch Tuesday octubre 2026: 1.411 flaws, 3 zero-days activos",
   "[IMPORTANCIA: ALTA] Ghostscript CVE-2026-39919: heap overflow RCE via PDFs uploads",
   "[IMPORTANCIA: ALTA] Microsoft Patch Tuesday octubre 2026: 1.413 flaws, 3 zero-days activos",
-  "[IMPORTANCIA: ALTA] SAP NetWeaver y S/4HANA: vulnerabilidades críticas parchadas"
+  "[IMPORTANCIA: ALTA] SAP NetWeaver y S/4HANA: vulnerabilidades críticas parchadas",
+  "[IMPORTANCIA: ALTA] Windows CVE-2026-96951: bypass seguridad explotado activamente",
+  "[IMPORTANCIA: ALTA] Citrix, Fortinet, Ivanti: 29 críticas parcheadas octubre 2026",
+  "[IMPORTANCIA: ALTA] Linux vhost: CVE-2026-74580 RCE local, escape VM a host",
+  "[IMPORTANCIA: ALTA] Agente IA descubre OTP bypass crítico en aseguradora producción",
+  "[IMPORTANCIA: ALTA] Hirudo: troyano Android reemplaza apps bancarias, inyecta bypass seguridad",
+  "[IMPORTANCIA: ALTA] Equipo XBOW: IA GPT-5.6 encadena 3 Chrome zero-days en 6 días"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
