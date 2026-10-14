@@ -834,12 +834,25 @@
   "https://security.paloaltonetworks.com/CVE-2026-0313",
   "https://security.paloaltonetworks.com/CVE-2026-0319",
   "https://security.paloaltonetworks.com/CVE-2026-0318",
-  "https://security.paloaltonetworks.com/CVE-2026-0321"
+  "https://security.paloaltonetworks.com/CVE-2026-0321",
+  "https://security.paloaltonetworks.com/CVE-2026-0311",
+  "https://security.paloaltonetworks.com/CVE-2026-0322",
+  "https://security.paloaltonetworks.com/CVE-2026-0320",
+  "https://security.paloaltonetworks.com/CVE-2026-0314",
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0013",
+  "https://www.securityweek.com/?p=50025",
+  "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-esa-dfCrfXkm",
+  "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+  "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
+  "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+  "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+  "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+  "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+  "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+  "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+  "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Francia: ciberataque desactiva refrigeradores cadenas supermercados",
-  "[IMPORTANCIA: ALTA] Ciberataque desactiva refrigeración en cientos de supermercados Francia",
-  "[IMPORTANCIA: ALTA] Ledger: implante spy chip en dispositivos Southeast Asia",
   "[IMPORTANCIA: MUY ALTA] Anthropic desconecta modelos IA tras brechas en sitios gobierno USA",
   "[IMPORTANCIA: ALTA] GitLab: RCE CVSS 10.0 sin autenticación en CI/CD",
   "[IMPORTANCIA: ALTA] Francia: atacantes comprometen controladores Danfoss supermercados",
@@ -866,7 +879,10 @@
   "[IMPORTANCIA: ALTA] curl HTTP/2 upload flaw permite ejecución código cliente",
   "[IMPORTANCIA: ALTA] Ivanti Connect Secure CVE-2026-104935 explotado activamente",
   "[IMPORTANCIA: ALTA] APT Kazakhstan-nexus UAT-6275 ataca gobiernos CIS",
-  "[IMPORTANCIA: ALTA] Cisco Secure Email Gateway escritura archivo remota"
+  "[IMPORTANCIA: ALTA] Cisco Secure Email Gateway escritura archivo remota",
+  "[IMPORTANCIA: ALTA] PAN-OS: RCE autenticado interfaz gestión",
+  "[IMPORTANCIA: MUY ALTA] Cisco SEG zero-day RCE raíz sin autenticación explotado",
+  "[IMPORTANCIA: MUY ALTA] Cisco SEG: escritura archivo remota raíz sin autenticación activo"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
