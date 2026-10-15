@@ -883,11 +883,17 @@
   "https://therecord.media/uk-legal-aid-cyberattack-data",
   "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
   "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-  "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/"
+  "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+  "https://www.securityweek.com/?p=50064",
+  "6acf92e9fe419600018062cc",
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+  "https://security.paloaltonetworks.com/CVE-2026-0317",
+  "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+  "https://therecord.media/spyware-citizen-lab-advertising",
+  "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] GitHub npm: 1.500+ paquetes vulnerables hijacking sin credenciales",
-  "[IMPORTANCIA: MUY ALTA] Ivanti Connect Secure: cadena 3 zero-days RCE sin autenticación raíz",
   "[IMPORTANCIA: MUY ALTA] Ivanti Connect Secure: CVE-2026-104935 RCE raíz VPN parcheable",
   "[IMPORTANCIA: ALTA] Microsoft Patch Tuesday octubre 2026: 1.411 flaws, 3 zero-days activos",
   "[IMPORTANCIA: ALTA] Ghostscript CVE-2026-39919: heap overflow RCE via PDFs uploads",
@@ -915,7 +921,9 @@
   "[IMPORTANCIA: ALTA] Next.js: dos RCE críticos sin autenticación parcheados",
   "[IMPORTANCIA: ALTA] NGINX: RCE y bypass TLS certificado cliente parcheado",
   "[IMPORTANCIA: ALTA] Silent Lynx: cadena WinRAR + macro ataca gobiernos CIS",
-  "[IMPORTANCIA: ALTA] Paquetes Arch Linux falsificados (yay, paru) con root"
+  "[IMPORTANCIA: ALTA] Paquetes Arch Linux falsificados (yay, paru) con root",
+  "[IMPORTANCIA: ALTA] Proxyjacking D-Link, Ubiquiti: robo ancho banda en 34 países",
+  "[IMPORTANCIA: ALTA] Collabora Online CVE-2026-110447: RCE explorado Nextcloud"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
