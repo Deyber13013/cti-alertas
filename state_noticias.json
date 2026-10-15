@@ -871,13 +871,21 @@
   "https://www.securityweek.com/?p=50051",
   "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
   "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-  "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html"
+  "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+  "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+  "https://www.securityweek.com/?p=50055",
+  "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+  "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
+  "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+  "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+  "https://www.securityweek.com/?p=50059",
+  "https://therecord.media/uk-legal-aid-cyberattack-data",
+  "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+  "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+  "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] SAP Cloud SDK Python: OAuth2 SSRF máxima severidad",
-  "[IMPORTANCIA: ALTA] Docker Hub: suplantación y manipulación imágenes CVE-2026-105445",
-  "[IMPORTANCIA: MUY ALTA] Ivanti Connect Secure: zero-day explotado activamente",
-  "[IMPORTANCIA: ALTA] Vercel Sandbox: falla filtrado red permite fuga datos agentes IA",
   "[IMPORTANCIA: ALTA] GitHub npm: 1.500+ paquetes vulnerables hijacking sin credenciales",
   "[IMPORTANCIA: MUY ALTA] Ivanti Connect Secure: cadena 3 zero-days RCE sin autenticación raíz",
   "[IMPORTANCIA: MUY ALTA] Ivanti Connect Secure: CVE-2026-104935 RCE raíz VPN parcheable",
@@ -903,7 +911,11 @@
   "[IMPORTANCIA: ALTA] Langflow: RCE autenticado explotado en 1.423 intentos honeypot",
   "[IMPORTANCIA: ALTA] GhostAction: 1.900 cuentas GitHub comprometidas, 30.000+ repositorios afectados",
   "[IMPORTANCIA: ALTA] Hirudo: RAT Android reemplaza apps bancarias con troyanos",
-  "[IMPORTANCIA: ALTA] Drupal: RCE crítico sin autenticación via módulos contribuidos"
+  "[IMPORTANCIA: ALTA] Drupal: RCE crítico sin autenticación via módulos contribuidos",
+  "[IMPORTANCIA: ALTA] Next.js: dos RCE críticos sin autenticación parcheados",
+  "[IMPORTANCIA: ALTA] NGINX: RCE y bypass TLS certificado cliente parcheado",
+  "[IMPORTANCIA: ALTA] Silent Lynx: cadena WinRAR + macro ataca gobiernos CIS",
+  "[IMPORTANCIA: ALTA] Paquetes Arch Linux falsificados (yay, paru) con root"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
