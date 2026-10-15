@@ -852,7 +852,11 @@
   "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
   "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
   "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+  "https://www.welivesecurity.com/es/estafas-enganos/estafas-tiempos-compartidos-falsos-compradores/",
+  "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+  "https://www.securityweek.com/?p=50029",
+  "https://www.securityweek.com/?p=50034"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] GitLab: RCE CVSS 10.0 sin autenticación en CI/CD",
