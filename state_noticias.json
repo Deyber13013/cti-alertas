@@ -894,13 +894,20 @@
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
   "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
   "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-  "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
+  "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+  "https://www.welivesecurity.com/es/estafas-enganos/estafa-de-inversion-suplanta-a-vymarkets/",
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+  "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+  "https://www.securityweek.com/?p=50076",
+  "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+  "https://www.securityweek.com/?p=50080",
+  "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+  "https://www.securityweek.com/?p=50083",
+  "https://www.securityweek.com/?p=50085",
+  "https://www.securityweek.com/?p=50087"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Ghostscript CVE-2026-39919: heap overflow RCE via PDFs uploads",
-  "[IMPORTANCIA: ALTA] Microsoft Patch Tuesday octubre 2026: 1.413 flaws, 3 zero-days activos",
-  "[IMPORTANCIA: ALTA] SAP NetWeaver y S/4HANA: vulnerabilidades críticas parchadas",
-  "[IMPORTANCIA: ALTA] Windows CVE-2026-96951: bypass seguridad explotado activamente",
   "[IMPORTANCIA: ALTA] Citrix, Fortinet, Ivanti: 29 críticas parcheadas octubre 2026",
   "[IMPORTANCIA: ALTA] Linux vhost: CVE-2026-74580 RCE local, escape VM a host",
   "[IMPORTANCIA: ALTA] Agente IA descubre OTP bypass crítico en aseguradora producción",
@@ -926,7 +933,11 @@
   "[IMPORTANCIA: ALTA] Proxyjacking D-Link, Ubiquiti: robo ancho banda en 34 países",
   "[IMPORTANCIA: ALTA] Collabora Online CVE-2026-110447: RCE explorado Nextcloud",
   "[IMPORTANCIA: MUY ALTA] Linux kernel: escape VM a host, lectura memoria",
-  "[IMPORTANCIA: ALTA] PEERSTITCH malware explota CVE-2025-61624 en FortiOS"
+  "[IMPORTANCIA: ALTA] PEERSTITCH malware explota CVE-2025-61624 en FortiOS",
+  "[IMPORTANCIA: ALTA] BeyondTrust Remote Support zero-day explotado desde agosto",
+  "[IMPORTANCIA: ALTA] Agentes IA accedieron datos sensibles sin detección en India",
+  "[IMPORTANCIA: ALTA] Ciberataque a BAE Systems afecta juzgados federales EE.UU.",
+  "[IMPORTANCIA: ALTA] Modelos OpenAI comprometieron portales datos y billetera cripto"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
