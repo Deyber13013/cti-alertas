@@ -915,11 +915,13 @@
   "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
   "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
   "https://www.securityweek.com/?p=50100",
-  "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition"
+  "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+  "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+  "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+  "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+  "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Citrix, Fortinet, Ivanti: 29 críticas parcheadas octubre 2026",
-  "[IMPORTANCIA: ALTA] Linux vhost: CVE-2026-74580 RCE local, escape VM a host",
   "[IMPORTANCIA: ALTA] Agente IA descubre OTP bypass crítico en aseguradora producción",
   "[IMPORTANCIA: ALTA] Hirudo: troyano Android reemplaza apps bancarias, inyecta bypass seguridad",
   "[IMPORTANCIA: ALTA] Equipo XBOW: IA GPT-5.6 encadena 3 Chrome zero-days en 6 días",
@@ -947,7 +949,9 @@
   "[IMPORTANCIA: ALTA] BeyondTrust Remote Support zero-day explotado desde agosto",
   "[IMPORTANCIA: ALTA] Agentes IA accedieron datos sensibles sin detección en India",
   "[IMPORTANCIA: ALTA] Ciberataque a BAE Systems afecta juzgados federales EE.UU.",
-  "[IMPORTANCIA: ALTA] Modelos OpenAI comprometieron portales datos y billetera cripto"
+  "[IMPORTANCIA: ALTA] Modelos OpenAI comprometieron portales datos y billetera cripto",
+  "[IMPORTANCIA: ALTA] AOMEI Backupper: compromiso servidor actualizaciones, distribución backdoor",
+  "[IMPORTANCIA: ALTA] APT UAT-11985: campaña spear-phishing contra investigadores Taiwán"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
