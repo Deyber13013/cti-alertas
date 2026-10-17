@@ -921,10 +921,11 @@
   "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
   "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
   "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+  "https://www.securityweek.com/?p=50091",
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Equipo XBOW: IA GPT-5.6 encadena 3 Chrome zero-days en 6 días",
   "[IMPORTANCIA: ALTA] curl HTTP/2 upload flaw permite ejecución código cliente",
   "[IMPORTANCIA: ALTA] Ivanti Connect Secure CVE-2026-104935 explotado activamente",
   "[IMPORTANCIA: ALTA] APT Kazakhstan-nexus UAT-6275 ataca gobiernos CIS",
@@ -953,7 +954,8 @@
   "[IMPORTANCIA: ALTA] AOMEI Backupper: compromiso servidor actualizaciones, distribución backdoor",
   "[IMPORTANCIA: ALTA] APT UAT-11985: campaña spear-phishing contra investigadores Taiwán",
   "[IMPORTANCIA: ALTA] BlockStrap: RCE crítico en Magento y Adobe Commerce",
-  "[IMPORTANCIA: ALTA] ConnectWise: credencial comprometida accede 173 tenants M365"
+  "[IMPORTANCIA: ALTA] ConnectWise: credencial comprometida accede 173 tenants M365",
+  "[IMPORTANCIA: ALTA] Cadena suministro npm: paquete malicioso imgdecode con shellcode"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
