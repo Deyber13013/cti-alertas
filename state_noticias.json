@@ -923,7 +923,9 @@
   "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
   "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
   "https://www.securityweek.com/?p=50091",
-  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+  "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
  ],
  "recientes": [
   "[IMPORTANCIA: ALTA] curl HTTP/2 upload flaw permite ejecución código cliente",
