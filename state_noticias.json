@@ -927,10 +927,10 @@
   "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
   "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-  "https://www.securityweek.com/?p=50104"
+  "https://www.securityweek.com/?p=50104",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] curl HTTP/2 upload flaw permite ejecución código cliente",
   "[IMPORTANCIA: ALTA] Ivanti Connect Secure CVE-2026-104935 explotado activamente",
   "[IMPORTANCIA: ALTA] APT Kazakhstan-nexus UAT-6275 ataca gobiernos CIS",
   "[IMPORTANCIA: ALTA] Cisco Secure Email Gateway escritura archivo remota",
@@ -959,7 +959,8 @@
   "[IMPORTANCIA: ALTA] APT UAT-11985: campaña spear-phishing contra investigadores Taiwán",
   "[IMPORTANCIA: ALTA] BlockStrap: RCE crítico en Magento y Adobe Commerce",
   "[IMPORTANCIA: ALTA] ConnectWise: credencial comprometida accede 173 tenants M365",
-  "[IMPORTANCIA: ALTA] Cadena suministro npm: paquete malicioso imgdecode con shellcode"
+  "[IMPORTANCIA: ALTA] Cadena suministro npm: paquete malicioso imgdecode con shellcode",
+  "[IMPORTANCIA: ALTA] SiteGuard WAF inyección comando OS ejecución root/SYSTEM"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
