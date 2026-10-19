@@ -943,12 +943,24 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
   "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
   "https://www.securityweek.com/?p=50121",
-  "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+  "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+  "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+  "https://www.securityweek.com/?p=50124",
+  "https://www.securityweek.com/?p=50129",
+  "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
+  "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+  "https://therecord.media/ahold-delhaize-cyberattack-grocery",
+  "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+  "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+  "https://www.securityweek.com/?p=50131",
+  "https://therecord.media/serbia-spyware-pegasus-elections",
+  "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+  "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] GhostAction: 1.900 cuentas GitHub comprometidas, 30.000+ repositorios afectados",
-  "[IMPORTANCIA: ALTA] Hirudo: RAT Android reemplaza apps bancarias con troyanos",
-  "[IMPORTANCIA: ALTA] Drupal: RCE crítico sin autenticación via módulos contribuidos",
   "[IMPORTANCIA: ALTA] Next.js: dos RCE críticos sin autenticación parcheados",
   "[IMPORTANCIA: ALTA] NGINX: RCE y bypass TLS certificado cliente parcheado",
   "[IMPORTANCIA: ALTA] Silent Lynx: cadena WinRAR + macro ataca gobiernos CIS",
@@ -975,7 +987,10 @@
   "[IMPORTANCIA: ALTA] ETS SFTP: credencial comprometida expone millones estudiantes California",
   "[IMPORTANCIA: ALTA] Plex2Shell: exploración activa mineros cripto y proxy",
   "[IMPORTANCIA: ALTA] GhostAction: evolución ataques fuentes abiertas malware font",
-  "[IMPORTANCIA: ALTA] ConnectWise: suspensión servicios cloud por ciberataque"
+  "[IMPORTANCIA: ALTA] ConnectWise: suspensión servicios cloud por ciberataque",
+  "[IMPORTANCIA: ALTA] Rank Math PRO WordPress: backdoor autorrestaurable cadena suministro",
+  "[IMPORTANCIA: ALTA] Ahold Delhaize: ciberataque infraestructura retail multinacional",
+  "[IMPORTANCIA: ALTA] Siemens Software Center: RCE explorado ClickFix DLL sideloading"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
