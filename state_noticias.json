@@ -981,11 +981,26 @@
   "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
   "https://www.securityweek.com/?p=50142",
   "https://www.securityweek.com/?p=50144",
-  "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuic-sql-inject-2qbfWSm5"
+  "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuic-sql-inject-2qbfWSm5",
+  "https://www.welivesecurity.com/es/seguridad-digital/que-hacer-ante-una-brecha-de-datos-con-poca-informacion/",
+  "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+  "https://www.securityweek.com/?p=50146",
+  "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+  "https://www.securityweek.com/?p=50150",
+  "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+  "https://www.securityweek.com/?p=50153",
+  "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
+  "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+  "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
+  "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+  "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
+  "6ad760e2bfc9520001b38dfe",
+  "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+  "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+  "https://www.securityweek.com/?p=50167",
+  "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] PEERSTITCH malware explota CVE-2025-61624 en FortiOS",
-  "[IMPORTANCIA: ALTA] BeyondTrust Remote Support zero-day explotado desde agosto",
   "[IMPORTANCIA: ALTA] Agentes IA accedieron datos sensibles sin detección en India",
   "[IMPORTANCIA: ALTA] Ciberataque a BAE Systems afecta juzgados federales EE.UU.",
   "[IMPORTANCIA: ALTA] Modelos OpenAI comprometieron portales datos y billetera cripto",
@@ -1013,7 +1028,9 @@
   "[IMPORTANCIA: ALTA] APT28: astillero naval NATO comprometido, Reflective Loader nuevo",
   "[IMPORTANCIA: ALTA] Go: actualización emergencia bloquea 8 llaves CA",
   "[IMPORTANCIA: ALTA] Plataforma IA Cairn: abuso en más de 100 organizaciones",
-  "[IMPORTANCIA: ALTA] Cisco Unified Intelligence Center: SQL injection blind"
+  "[IMPORTANCIA: ALTA] Cisco Unified Intelligence Center: SQL injection blind",
+  "[IMPORTANCIA: ALTA] Qilin e INC explotan bypass MFA en Palo Alto Networks",
+  "[IMPORTANCIA: ALTA] FortiSIEM RCE crítico con exploit PoC público disponible"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
