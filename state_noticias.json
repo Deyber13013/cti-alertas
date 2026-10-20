@@ -998,12 +998,16 @@
   "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
   "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
   "https://www.securityweek.com/?p=50167",
-  "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks"
+  "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
+  "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+  "https://therecord.media/23andme-california-data-breach-settlement",
+  "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+  "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+  "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+  "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Agentes IA accedieron datos sensibles sin detección en India",
-  "[IMPORTANCIA: ALTA] Ciberataque a BAE Systems afecta juzgados federales EE.UU.",
-  "[IMPORTANCIA: ALTA] Modelos OpenAI comprometieron portales datos y billetera cripto",
   "[IMPORTANCIA: ALTA] AOMEI Backupper: compromiso servidor actualizaciones, distribución backdoor",
   "[IMPORTANCIA: ALTA] APT UAT-11985: campaña spear-phishing contra investigadores Taiwán",
   "[IMPORTANCIA: ALTA] BlockStrap: RCE crítico en Magento y Adobe Commerce",
@@ -1030,7 +1034,10 @@
   "[IMPORTANCIA: ALTA] Plataforma IA Cairn: abuso en más de 100 organizaciones",
   "[IMPORTANCIA: ALTA] Cisco Unified Intelligence Center: SQL injection blind",
   "[IMPORTANCIA: ALTA] Qilin e INC explotan bypass MFA en Palo Alto Networks",
-  "[IMPORTANCIA: ALTA] FortiSIEM RCE crítico con exploit PoC público disponible"
+  "[IMPORTANCIA: ALTA] FortiSIEM RCE crítico con exploit PoC público disponible",
+  "[IMPORTANCIA: ALTA] Ocho llaves privadas eMudhra CA comprometidas",
+  "[IMPORTANCIA: ALTA] Zeabur: segunda brecha seguridad en dos meses",
+  "[IMPORTANCIA: ALTA] PHP: dos vulnerabilidades críticas parcheadas emergencia"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
