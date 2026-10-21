@@ -1005,10 +1005,12 @@
   "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
   "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
   "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
-  "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+  "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+  "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+  "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+  "https://www.securityweek.com/?p=50171"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] AOMEI Backupper: compromiso servidor actualizaciones, distribución backdoor",
   "[IMPORTANCIA: ALTA] APT UAT-11985: campaña spear-phishing contra investigadores Taiwán",
   "[IMPORTANCIA: ALTA] BlockStrap: RCE crítico en Magento y Adobe Commerce",
   "[IMPORTANCIA: ALTA] ConnectWise: credencial comprometida accede 173 tenants M365",
@@ -1037,7 +1039,8 @@
   "[IMPORTANCIA: ALTA] FortiSIEM RCE crítico con exploit PoC público disponible",
   "[IMPORTANCIA: ALTA] Ocho llaves privadas eMudhra CA comprometidas",
   "[IMPORTANCIA: ALTA] Zeabur: segunda brecha seguridad en dos meses",
-  "[IMPORTANCIA: ALTA] PHP: dos vulnerabilidades críticas parcheadas emergencia"
+  "[IMPORTANCIA: ALTA] PHP: dos vulnerabilidades críticas parcheadas emergencia",
+  "[IMPORTANCIA: ALTA] UpdraftCentral: compromiso cadena suministro, backdoor WordPress"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
