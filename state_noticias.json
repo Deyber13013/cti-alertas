@@ -1008,12 +1008,16 @@
   "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
   "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
   "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-  "https://www.securityweek.com/?p=50171"
+  "https://www.securityweek.com/?p=50171",
+  "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+  "https://www.securityweek.com/?p=50174",
+  "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+  "https://www.securityweek.com/?p=50177",
+  "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+  "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+  "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] APT UAT-11985: campaña spear-phishing contra investigadores Taiwán",
-  "[IMPORTANCIA: ALTA] BlockStrap: RCE crítico en Magento y Adobe Commerce",
-  "[IMPORTANCIA: ALTA] ConnectWise: credencial comprometida accede 173 tenants M365",
   "[IMPORTANCIA: ALTA] Cadena suministro npm: paquete malicioso imgdecode con shellcode",
   "[IMPORTANCIA: ALTA] SiteGuard WAF inyección comando OS ejecución root/SYSTEM",
   "[IMPORTANCIA: ALTA] OpenCode Console: exposición claves API terceros",
@@ -1040,7 +1044,10 @@
   "[IMPORTANCIA: ALTA] Ocho llaves privadas eMudhra CA comprometidas",
   "[IMPORTANCIA: ALTA] Zeabur: segunda brecha seguridad en dos meses",
   "[IMPORTANCIA: ALTA] PHP: dos vulnerabilidades críticas parcheadas emergencia",
-  "[IMPORTANCIA: ALTA] UpdraftCentral: compromiso cadena suministro, backdoor WordPress"
+  "[IMPORTANCIA: ALTA] UpdraftCentral: compromiso cadena suministro, backdoor WordPress",
+  "[IMPORTANCIA: ALTA] PHP: dos vulnerabilidades críticas RCE sin parchear",
+  "[IMPORTANCIA: MUY ALTA] SafePay ransomware: 600+ organizaciones infraestructura crítica",
+  "[IMPORTANCIA: ALTA] State Bank of India: fuga 3.897 registros clientes"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
