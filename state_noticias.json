@@ -1072,13 +1072,19 @@
   "6ad903702a20190001915a77",
   "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
   "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html"
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+  "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+  "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+  "https://www.securityweek.com/?p=50218",
+  "https://www.securityweek.com/?p=50220",
+  "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+  "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+  "https://www.securityweek.com/?p=50225",
+  "https://www.securityweek.com/?p=50227"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Ahold Delhaize: ciberataque infraestructura retail multinacional",
-  "[IMPORTANCIA: ALTA] Siemens Software Center: RCE explorado ClickFix DLL sideloading",
-  "[IMPORTANCIA: ALTA] ROMULUS ClickFix: plataforma distribución malware Legion Loader activa",
-  "[IMPORTANCIA: ALTA] OVHcloud CLI: compromiso cadena suministro, robo secretos",
   "[IMPORTANCIA: ALTA] APT28: ataque contratistas defensa NATO con nuevo backdoor",
   "[IMPORTANCIA: ALTA] APT28: astillero naval NATO comprometido, Reflective Loader nuevo",
   "[IMPORTANCIA: ALTA] Go: actualización emergencia bloquea 8 llaves CA",
@@ -1104,7 +1110,11 @@
   "[IMPORTANCIA: MUY ALTA] GitLab RCE sin autenticación 12 años versiones afectadas",
   "[IMPORTANCIA: ALTA] Onamae Desktop Cloud comprometida 27.000 servidores VPS",
   "[IMPORTANCIA: ALTA] Lazarus uso criptografía poscuántica entrega malware",
-  "[IMPORTANCIA: MUY ALTA] Storm-0940: compromiso ConnectWise cadena suministro con ARTEX"
+  "[IMPORTANCIA: MUY ALTA] Storm-0940: compromiso ConnectWise cadena suministro con ARTEX",
+  "[IMPORTANCIA: ALTA] Sandworm + actor secundario destruyen datos logística ucraniana",
+  "[IMPORTANCIA: ALTA] QPACK HTTP/3: DoS amplificación 4.000x crash servidores",
+  "[IMPORTANCIA: ALTA] Node.js Brotli RCE todas versiones soportadas",
+  "[IMPORTANCIA: ALTA] Cisco parcha 34 vulnerabilidades múltiples productos"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
