@@ -1071,10 +1071,10 @@
   "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
   "6ad903702a20190001915a77",
   "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html"
  ],
  "recientes": [
-  "[IMPORTANCIA: ALTA] Rank Math PRO WordPress: backdoor autorrestaurable cadena suministro",
   "[IMPORTANCIA: ALTA] Ahold Delhaize: ciberataque infraestructura retail multinacional",
   "[IMPORTANCIA: ALTA] Siemens Software Center: RCE explorado ClickFix DLL sideloading",
   "[IMPORTANCIA: ALTA] ROMULUS ClickFix: plataforma distribución malware Legion Loader activa",
@@ -1103,7 +1103,8 @@
   "[IMPORTANCIA: ALTA] LiteLLM: compromiso cadena suministro credential stealer",
   "[IMPORTANCIA: MUY ALTA] GitLab RCE sin autenticación 12 años versiones afectadas",
   "[IMPORTANCIA: ALTA] Onamae Desktop Cloud comprometida 27.000 servidores VPS",
-  "[IMPORTANCIA: ALTA] Lazarus uso criptografía poscuántica entrega malware"
+  "[IMPORTANCIA: ALTA] Lazarus uso criptografía poscuántica entrega malware",
+  "[IMPORTANCIA: MUY ALTA] Storm-0940: compromiso ConnectWise cadena suministro con ARTEX"
  ],
  "init": true,
  "last_err": "2026-10-06T16:43:35.366845+00:00"
